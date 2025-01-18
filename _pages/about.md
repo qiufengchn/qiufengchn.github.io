@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Feng QIU Academic Personal Website"
+title: "Academic Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
