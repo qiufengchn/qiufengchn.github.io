@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "QIU Feng's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-
-# QIU Feng's CV
 
 ## Education
 
@@ -73,5 +70,7 @@ redirect_from:
 
 ## Contact Information
 
-- Email: qiufengchn@hust.edu.cn; f.qiu@hotmail.com
+- Email:
+  - qiufengchn@hust.edu.cn (for Academic Communication and Work)
+  - qiufengchn@163.com (for Life and other Entertainment)
 - Phone: +86 132 4718 5599  
