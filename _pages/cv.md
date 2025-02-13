@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# QIU Feng - CV
-
 ## Personal Information
 
 - **Name**: QIU Feng
