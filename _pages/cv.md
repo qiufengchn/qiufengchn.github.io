@@ -12,7 +12,7 @@ redirect_from:
 ## Personal Information
 
 - **Name**: QIU Feng
-- **Date of Birth**: 11/24/1999
+- **Date of Birth**: 1999/11/24
 - **Gender**: Male
 - **Cell Phone & WeChat**: +86 132-4718-5599
 - **Location**: Wuhan, Hubei, China
@@ -70,11 +70,3 @@ redirect_from:
 - Urban Resilience
 - Energy Infrastructure Risk Assessment
 - Optimized Design of Energy System
-
-## Motivation Letter
-
-*Include the content of your motivation letter here if needed.*
-
-## Abstract
-
-*Include the content of your research abstract here if needed.*
