@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "QIUFENG"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://qiufengchn.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Feng QIU"
+description              : &description "Passionate about engineering and management science, exploring the intersection of smart cities and sustainable development."
+url                      : https://qiufengchn.github.io/  # Your personal website URL
+baseurl                  : ""
+repository               : "https://qiufengchn.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,18 +23,18 @@ author:
   # Biographic information
   avatar           : "FengQIU.png"
   name             : "Feng QIU"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/his"  
   bio              : "Per Aspera Ad Astra"
   location         : "Wuhan, China"
-  employer         : "HUST"
-  uri              : # URL
-  email            : "f.qiu@hotmail.com" 
+  employer         : "Huazhong University of Science and Technology, HUST"
+  url              : "https://www.hust.edu.cn/"
+  email            : "qiufengchn@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=gGPca_8AAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-7731-8539"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
