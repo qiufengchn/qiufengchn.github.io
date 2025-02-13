@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm QIU Feng, a passionate and dedicated individual with a strong background in engineering and management science. I completed my Master's degree in Civil Engineering at Huazhong University of Science and Technology, where I focused on modern project management, intelligent construction, and sustainable development. Prior to that, I earned my Bachelor's degree in Management Science and Engineering from Huazhong Agricultural University.
+Hey there! 🌟
 
-Throughout my academic journey, I have been deeply involved in research and practical projects, exploring topics such as smart construction, urban infrastructure development, and rural revitalization. My efforts have been recognized through several awards, including national scholarships and top prizes in academic competitions. I am also an active member of the Communist Party of China, committed to contributing to society through my work and research.
+I'm QIU Feng, a super passionate and dedicated soul with a solid foundation in engineering and management science. 🏗️📊 I earned my Master's degree in Civil Engineering from Huazhong University of Science and Technology, where I delved deep into modern project management, smart construction and sustainable development. Before that, I earned my Bachelor's degree in Management Science and Engineering from Huazhong Agricultural University. 🎓
 
-In addition to my academic pursuits, I have gained valuable experience through internships at leading engineering firms, where I worked on major projects like ultra-high voltage power transmission lines and smart city initiatives. I am proficient in various software tools, including MATLAB, AutoCAD, and data analysis platforms, and I have a keen interest in emerging technologies like BIM and AI-driven construction.
+My academic journey has been a rollercoaster of research and practical projects, exploring the intricacies of intelligent construction, urban infrastructure development, and rural revitalization. 🚀 My hustle paid off with several awards, including national scholarships and top prizes in academic competitions. And guess what? I'm an active member of the Communist Party of China, all for contributing to society through my work and research. 💪
 
-Beyond the professional realm, I enjoy reading, writing, and exploring the world through photography and drone videography. I am also an avid sports enthusiast, passionate about basketball and badminton.
+But wait, there's more! I've also gained some great experience through internships at top engineering firms, working on mega projects like ultra-high voltage power transmission lines and smart city initiatives. 🌆💡 I'm a whiz with various software tools, including MATLAB, AutoCAD, and data analysis platforms, and I'm head over heels for emerging technologies like BIM and AI-driven construction. 🖥️🤖
 
-I am excited to share my journey and insights with you through this platform and look forward to connecting with like-minded individuals who share a passion for innovation and progress.
+When I'm not busy being a workaholic, I love to read, write, and capture the world through photography and drone videography. 📚✍️📸 And hey, I'm also a sports junkie, obsessed with basketball and badminton. 🏀🏸
+
+I'm excited to share my journey and insights with you through this platform and can't wait to connect with like-minded people who are all about innovation and progress. Let's make some magic happen! 🌌✨
