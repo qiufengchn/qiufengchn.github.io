@@ -7,70 +7,74 @@ redirect_from:
   - /resume
 ---
 
+# QIU Feng - CV
+
+## Personal Information
+
+- **Name**: QIU Feng
+- **Date of Birth**: 11/24/1999
+- **Gender**: Male
+- **Cell Phone & WeChat**: +86 132-4718-5599
+- **Location**: Wuhan, Hubei, China
+- **Work E-mail**: qiufengchn@hust.edu.cn
+
 ## Education
 
-- **Master of Science in Civil Engineering (Intelligent Construction and Management)**  
-  School of Civil and Hydraulic Engineering, Huazhong University of Science and Technology  
-  June 2023 - June 2026
+### Master of Engineering
+- **Institution**: Huazhong University of Science and Technology (2023~2026)
+- **Program**: Civil Engineering (Intelligent Construction)
+- **Major Grades**: 88.00/100, ranked 10/48
+- **Courses**: Building Mechanics, Housing Architecture, Modern Engineering Project Management, Computational Principles of Intelligent Construction, C++ Programming, Engineering Parameterization and Simulation, Geographic Information Systems, Machine Learning (LLMs, NLP, SVI)
 
-- **Bachelor of Management Science and Engineering (Engineering Management)**  
-  School of Public Administration, Huazhong Agricultural University  
-  September 2018 - June 2022
+### Bachelor of Management
+- **Institution**: Huazhong Agricultural University (2018~2022)
+- **Program**: Management Science and Engineering (Engineering Management)
+- **Major Grades**: 87.66/100, ranked 11/70
 
-## Work Experience
+## Basic Competence
 
-- **Intern Measurement Engineer**  
-  China Electric Power Engineering Consulting Group North China Electric Power Design Institute Co., Ltd.  
-  August 2020 - September 2020  
-  - Conducted engineering drawing analysis and construction layout measurement.
-  - Participated in the foundation and tower assembly construction of the UHVDC transmission line project.
+- **English Proficiency**: IELTS (Academic) - 7.0 (2023)
+- **Software Proficiency**: Python, MATLAB, C++, AutoCAD
+- **Basic Knowledge**: Rhino, Grasshopper, JAVA, R
 
-- **Intern Safety Officer**  
-  State Grid Hubei Electric Power Transmission and Transformation Engineering Co., Ltd.  
-  July 2021 - August 2021  
-  - Assisted in safety supervision for ±800kV UHVDC converter station project.
-  - Prepared safety management reports for high-altitude and high-voltage operations.
+## Honors and Awards
 
-## Skills
+- **2024**: National Innovation Center for Digital Construction Technology, Outstanding Graduate Student
+- **2024**: The Tenth China Graduate Student Smart City Technology and Creative Design Competition, First Prize
+- **2024**: The Third Huashu Cup International Student Mathematical Modeling Competition, National Second Prize (Honorable Mention)
+- **2020**: Outstanding Graduation Thesis of Huazhong Agricultural University (top 1%)
+- **2019**: First Prize of the U.S. College Students Mathematical Modeling Contest
+- **2019**: First Prize of the National Undergraduates' Competition of Land and National Condition Survey
+- **2019**: Third Prize of 13th Shennong Cup Extracurricular Academic and Scientific and Technological Works Competition for Undergraduates
 
-- Proficient in: MATLAB, AutoCAD, Office Suite  
-- Basic knowledge of: Python, Java, R programming, 3D Laser Scanning Modeling  
-- Strong analytical and problem-solving skills  
-- Excellent written and verbal communication skills in both English and Chinese
+## Research Experience
 
-## Talks and Presentations
+### Ongoing Projects
 
-- Presenter at the 3rd China Graduate "Double Carbon" Innovation and Creativity Competition (2024)  
-- Presenter at the 10th China Graduate Smart City Technology and Creative Design Competition (2024)
+- **2025**: National Foreign Experts Program, China-Portugal Cooperation on Key Technologies for Green Smart Cities (Participating Key Member)
+- **2025 to 2028**: National Natural Science Foundation of China (NSFC), Research on Urban Flood Prevention and Management Methods Based on Geospatial Knowledge Mapping (Participating Key Member)
+- **2024 to 2027**: Hubei Provincial Natural Science Foundation Project, Key Technologies of Domesticated Autonomous Digital Management Platform for BIM in the Whole Life Cycle of Highway Engineering (Participating Key Member)
+- **2023 to 2027**: National Key Research and Development Program, Intelligent and Efficient Construction Methods for Urban Bridges and Overall Design of Multifunctional Bridging Machines (Participating Member)
+- **2023 to 2026**: Hubei Provincial Key R&D Program (JD), Research and Development of Domestic Autonomous Digital Management Platform for the Whole Life Cycle of Buildings (Participating Key Member)
 
-## Teaching and Mentorship
+### Completed Projects
 
-- **Teaching Assistant**  
-  Huazhong University of Science and Technology  
-  - Assisted in course instruction for "Intelligent Construction and Management"  
-  - Provided guidance to undergraduate students on project-based learning
+- **2020 to 2021**: Science and Technology Innovation Fund Project for University Students (SRF), “Measurement and Optimization Research on Ecological Livability Level of Urban Rural Areas” (Hosted, Outstanding Graduation Thesis)
+- **2019 to 2020**: Science and Technology Innovation Fund for University Students (SRF) Project, “Research on the Stability of the Global Food System and the Efficiency and Profitability of the Food System” (Hosted, First Prize of U.S. College Students Mathematical Modeling Contest)
+- **2019 to 2021**: Undergraduate Science and Technology Innovation Special Fund (Rural Revitalization) Project, “Awakening the Sleeping Capital in the Countryside and Activating the Endogenous Motivation of Farming Households” (Hosted, First Prize of National Undergraduates' Competition of Land and National Condition Survey)
+- **2019**: Innovation and Entrepreneurship Training Program for Undergraduates, “The Impact of Social Capital on Community Governance under the Online Shopping Mode” (Participation, Third Prize of Shennong Cup Competition)
 
-## Service and Leadership
+## Research Interests
 
-- **Branch Secretary**  
-  Graduate Student Branch of the Communist Party of China, School of Civil and Hydraulic Engineering, Huazhong University of Science and Technology  
-  October 2024 - September 2025
+- Smart City and Intelligent Building
+- Urban Resilience
+- Energy Infrastructure Risk Assessment
+- Optimized Design of Energy System
 
-- **Member of Graduate Admissions Media Office**  
-  Huazhong University of Science and Technology  
-  April 2023 - April 2024  
-  - Managed social media platforms and organized campus events.
+## Motivation Letter
 
-## Awards and Honors
+*Include the content of your motivation letter here if needed.*
 
-- National Scholarship (2020)  
-- Outstanding Graduate Student (2023)  
-- National First Prize in China Graduate Smart City Technology and Creative Design Competition (2024)  
-- National First Prize in China Graduate "Double Carbon" Innovation and Creativity Competition (2024)
+## Abstract
 
-## Contact Information
-
-- Email:
-  - qiufengchn@hust.edu.cn (for Academic Communication and Work)
-  - qiufengchn@163.com (for Life and other Entertainment)
-- Phone: +86 132 4718 5599  
+*Include the content of your research abstract here if needed.*
