@@ -5,8 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
-## 🌟 **FENG_QIU's Personal Page | Smart Cities & Engineering Innovation** 🌟
+## 🌟 **FENG_QIU's Personal Page | Smart Cities & Engineering Innovation** 
 
 -  👋 Hi, I’m FENG_QIU (@qiufengchn)
 -  👀 Focus on Urban Morphology, Energy Resilience and AI for Urban Computing.
