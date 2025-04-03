@@ -11,12 +11,12 @@ redirect_from:
 
 -  👋 Hi, I’m FENG_QIU (@qiufengchn)
 -  👀 Focus on Urban Morphology, Energy Resilience and AI for Urban Computing.
--  🌱 Currently a student researcher of Huazhong University of Science and Technology, HUST.
+-  🌱 Currently a student researcher of Huazhong University Of Science and Technology.
 -  ❤️ Looking to collaborate on things like urban computing and semantic recognition of street view images.
 -  📫 How to reach me:
-  -  qiufengchn@gmail.com (for work) ;
-  -  qiufengchn@hust.edu.cn (for academic discussion);
-  -  f.qiu@hotmail.com (for life and Entertainment).
+  -  qiufengchn@gmail.com (for Work) ;
+  -  qiufengchn@hust.edu.cn (for Academic Discussion);
+  -  f.qiu@hotmail.com (for Life and Entertainment).
 
 ---
 
