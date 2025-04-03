@@ -21,4 +21,42 @@ I'm excited to share my journey and insights with you through this platform and 
 
 ---
 
-嘿，大家好！🌟 我是邱峰，一个在工程和管理科学领域有着深厚造诣的超级热情且敬业的人。🏗️📊 我在华中科技大学获得了土木工程硕士学位，在那里我深入研究了现代项目管理、智能建筑和可持续发展。在此之前，我在华中农业大学获得了管理科学与工程学士学位。🎓我的学术之路就像过山车一样精彩，充满了研究和实践项目的挑战，探索了智能建筑、城市基础设施发展和乡村振兴的复杂性。🚀 我的努力得到了回报，获得了多个奖项，包括国家奖学金和学术竞赛最高奖。💪我还在顶级工程公司实习，参与了特高压输电线路和智慧城市等大型项目，积累了丰富的经验。🌆💡 我精通各种软件工具，包括 MATLAB、AutoCAD 和数据分析平台，而且我对 BIM 和人工智能驱动的建筑等新兴技术情有独钟。🖥️🤖 当我不忙于工作时，我喜欢阅读、写作，并通过摄影和无人机摄像捕捉世界。📚✍️📸 而且我还是个运动迷，痴迷于篮球和羽毛球。🏀🏸我很高兴能通过这个平台与大家分享我的心路历程和见解，并迫不及待地想与志同道合、追求创新和进步的人们建立联系。让我们一起创造奇迹！🌌✨
+## 🌟 **FENG_QIU's Personal Page | Smart Cities & Engineering Innovation** 🌟
+
+-  👋 Hi, I’m FENG_QIU (@qiufengchn)
+-  👀 Focus on Urban Morphology, Energy Resilience and AI for Urban Computing.
+-  🌱 I’m currently a student researcher of Huazhong University Of Science and Technology, HUST.
+-  ❤️ I'm looking to collaborate on things like urban computing and semantic recognition of street view images.
+-  📫 How to reach me:
+  -  qiufengchn@gmail.com (for work) ;
+  -  qiufengchn@hust.edu.cn (for academic discussion);
+  -  f.qiu@hotmail.com (for life and Entertainment).
+---
+
+## 🎓 **Academic Journey**  
+- 🎓 Master of Civil Engineering at HUST, specializing in Smart Construction and Management.  
+- 📊 Top 15% GPA ranking in both undergraduate and graduate studies, recipient of National Scholarship and IELTS A 7.0.  
+- 🌍 Awarded first prize in the National College Mathematical Modeling Competition and over ten national-level honors.  
+
+## 💻 **Technical Breakthroughs**  
+- 💻 Led key algorithms in National Key R&D Program, developing C++ mesh algorithms to improve complex model processing efficiency by 35%.  
+- 🌧️ Constructed a 1M+ node geospatial knowledge graph, achieving AUC=0.93 in energy resilience of storm impacts prediction.  
+- 📊 Spearheaded urban information fusion system during internship, processing 500GB multi-source data with model false alarm rate <3%.  
+
+## ⚡ **Engineering Practice**  
+- 🚧 Innovated safety management for ultra-high voltage power projects, risk quantification model adopted by state-owned enterprise.  
+- 📐 Optimized construction data analysis at North China Power Design Institute, boosting material analysis efficiency by 30% with Python scripts.  
+- 🏙️ Developed GIS platform at Wuhan Zhongdi Digital, results integrated into corporate technical standards.  
+
+## 🤝 **Leadership & Collaboration**  
+- 🎯 Served as Party Branch Secretary, organized 13 events and led team to exemplary project.  
+- 🎓 AI algorithm course teaching assistant, designed 32-hour curriculum with 16 visualization modules.  
+
+## 🚀 **Future Vision**  
+Committed to advancing smart transformation in civil engineering, empowering sustainable urban development with algorithms | Making engineering technology more impactful! 🌍✨  
+
+<!---
+qiufengchn/qiufengchn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
